@@ -1,8 +1,6 @@
 # Table of content
 
-* [go.md](/go.md)
-
-
+* [go](/go.md "go")
 
 
 
