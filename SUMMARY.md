@@ -1,6 +1,6 @@
-# Table of content
+# Summary
 
-* [go](/go.md "go")
-
-
+* [Introduction](README.md)
+* [go](/go.md)
+  * [install](go/install.md)
 
